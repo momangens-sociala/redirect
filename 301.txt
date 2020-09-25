@@ -1,2 +1,2 @@
 / https://www.momangen.se
-/* https://www.momangen.se/^1
+/* https://www.momangen.se
